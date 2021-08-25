@@ -1,13 +1,35 @@
 @import "~normalize.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap');
 
-@import "_variables";
-@import "modules/hello.scss";
 
 body {
-  background: $wtf;
+  background: #583963;
   color: #fff;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  align-items: center;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.textarea{
+  width: 484px;
+  height: 294px;
+  color: black;
+  background: white;
+}
+.buttons{
+  float: left;
+}
+.button__load{
+  width: 107px;
+  height: 31px;
+}
+
+.button__save{
+  width: 107px;
+  height: 31px;
 }
