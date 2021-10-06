@@ -1,12 +1,12 @@
 {
   "name": "simple editor",
   "short_name": "simple editor",
-  "theme_color": "#2D2241",
-  "background_color": "#2D2241",
+  "theme_color": "#583963",
+  "background_color": "#583963",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/wtf-webpack-starter/",
-  "start_url": "/wtf-webpack-starter/",
+  "start_url": "/https://m-slezak.github.io/simple-editor/",
   "icons": [
     {
       "src": "pwa/manifest-icon-192.png",

@@ -3,7 +3,7 @@
 
 
 body {
-  background: #583963;
+  background: #4A2E2E;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -20,16 +20,28 @@ body {
   height: 294px;
   color: black;
   background: white;
+  border-radius: 10px;
 }
+
 .buttons{
-  float: left;
+  justify-content: space-between;
 }
+
 .button__load{
   width: 107px;
   height: 31px;
+  background: #5555F2;
+  border-radius: 10px;
+  margin-right: 30px;
+  
+  
+
 }
 
 .button__save{
   width: 107px;
   height: 31px;
+  background: #F5B339;
+  border-radius: 10px;
 }
+
