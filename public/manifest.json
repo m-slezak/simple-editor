@@ -5,7 +5,7 @@
   "background_color": "#583963",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/wtf-webpack-starter/",
+  "scope": "/simple-editor/",
   "start_url": "/https://m-slezak.github.io/simple-editor/",
   "icons": [
     {
